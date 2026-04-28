@@ -1,0 +1,12 @@
+apify-client
+fastapi
+gradio
+langchain-core
+langchain-openai
+langgraph
+pydantic
+PyPDF2
+python-dotenv
+python-multipart
+uvicorn[standard]
+weasyprint
